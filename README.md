@@ -1,3 +1,5 @@
+# This is a fork as I (Jack) don't like the idea of a being reliant on a repo that hasn't been touched in 3 years and may one day be taken down for no reason
+
 # Node Firebase Scrypt
 
 NodeJs implementation of Firebase's Scrypt modified version
